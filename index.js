@@ -10,6 +10,7 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase());
 }
+<<<<<<< HEAD
 function sayHiToGrandma(string)
 {
   var rtn;
@@ -45,3 +46,15 @@ function sayHiToGrandma(string)
 }
 
 
+=======
+function sayHiToGrandma(string){
+  var holler="YES INDEED!";
+  var psst="I can\'t hear you.";
+  var love="I love you, too.";
+ if shout(string)===string
+ return holler
+ elseif whisper(string)====string
+ return psst
+ elseif 
+}}
+>>>>>>> 927e333c72207398e4c65805fab7f8ce7def27e4
